@@ -528,7 +528,7 @@ body {
 }
 
 .teachers {
-  padding: 160px 5px;
+  padding:  0 5px 160px 5px;
 }
 .teachers .block-text {
   width: 60%;
